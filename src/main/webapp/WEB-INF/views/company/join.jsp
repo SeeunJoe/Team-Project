@@ -46,7 +46,7 @@
   </main>
     <a href="/">HOME</a>
     
-     <script type="text/javascript">
+  <script type="text/javascript">
     function test() {
       var p1 = document.getElementById('password').value;
       var p2 = document.getElementById('password2').value;
